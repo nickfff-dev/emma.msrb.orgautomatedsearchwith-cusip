@@ -1,0 +1,16 @@
+
+refer to video
+
+
+1.install python from https://www.python.org/downloads/release/python-3100
+
+
+
+2. open command prompt in the script folder
+3. run python pip install selenium wait for it to install
+4. run python pip install pandas as pd
+5. to run the script open command prompt in the script folder and type python search.py
+
+6. edit cusip.txt to add more cusips
+
+will output to csv
